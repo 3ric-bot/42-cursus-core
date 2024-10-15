@@ -14,22 +14,22 @@ To compile and use the library, include the header file and link against the com
 
 Feel free to modify any part of the description to better fit your style or add any additional details!
 
-libft/
-├── include/
-│   └── libft.h
-├── Libify/ <---------(The lib tester)
-├── src/
-│   ├── Conversion/
-|   |   └── $*.c
-│   ├── is_type/
-│   |   └── $*.c
-│   ├── linked_list/
-│   │   └── $*.c
-│   ├── memory/
-│   |   └── $*.c
-│   ├── misc/
-│   |   └── $*.c
-│   ├── string/
-│   |   └── $*.c
-├── Makefile
-└── README.md
+    libft/
+    ├── include/
+    │   └── libft.h
+    ├── Libify/ <---------(The lib tester)
+    ├── src/
+    │   ├── Conversion/
+    |   |   └── $*.c
+    │   ├── is_type/
+    │   |   └── $*.c
+    │   ├── linked_list/
+    │   │   └── $*.c
+    │   ├── memory/
+    │   |   └── $*.c
+    │   ├── misc/
+    │   |   └── $*.c
+    │   ├── string/
+    │   |   └── $*.c
+    ├── Makefile
+    └── README.md
