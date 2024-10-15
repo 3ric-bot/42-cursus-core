@@ -4,13 +4,13 @@ This repository contains a testing framework for the LibFT project, which is a r
 
 ## Features
 
-    * +Utility Scripts: Includes utility scripts for enhanced error detection and logging during 
+    * + Utility Scripts: Includes utility scripts for enhanced error detection and logging during 
 	  compilation and runtime.
-    * +Valgrind Integration: Automatically checks for memory leaks, invalid reads/writes, and other 
+    * + Valgrind Integration: Automatically checks for memory leaks, invalid reads/writes, and other 
 	  memory-related issues.
-    * +Automatic Compilation: Compiles individual function tests and displays detailed error messages if 
+    * + Automatic Compilation: Compiles individual function tests and displays detailed error messages if 
 	  compilation or runtime errors occur.
-    * +Docker Support: Provides Docker commands for isolated testing environments.
+    * + Docker Support: Provides Docker commands for isolated testing environments.
 
 ## How to Run it
 
