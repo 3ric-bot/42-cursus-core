@@ -1,4 +1,4 @@
-#Libft
+# Libft
 
 This project is a comprehensive C library designed to implement standard functions found in the C standard library. The entire project,
 including bonus features, is mandatory and fully integrated.
