@@ -14,7 +14,7 @@ compilation or runtime errors occur.
 
 ## How to Run it
 
-To run the code, clone the repository into your local libft folder, then navigate to the libify directory.
+To run the Libify, clone the repository into your local libft folder, then navigate to the libify directory.
 
 Open a terminal in Visual Studio Code or use the on your pc to execute the code.
 
